@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fundo padrão do sistema AMAGRO */
+body {
+  background-color: #F5F1E9;
+  color: #263238;
+}
